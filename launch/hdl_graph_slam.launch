@@ -62,7 +62,7 @@
       <param name="reg_max_optimizer_iterations" value="20"/>
       <param name="reg_use_reciprocal_correspondences" value="false"/>
       <param name="reg_correspondence_randomness" value="20"/>
-      <param name="reg_resolution" value="1.0" />
+      <param name="reg_resolution" value="2.0" />
       <param name="reg_nn_search_method" value="DIRECT7" />
   </node>
 
